@@ -4,7 +4,6 @@
   Date: 9/20/2015
   File: standup.xml
 -->
-
 <?xml-stylesheet type="text/css" href="faq.css"?>
 <FAQ>
   <title>Stand-Up Comedy FAQ</title>
@@ -58,8 +57,6 @@
   <section>
     <sectiontitle>2. Commonly asked questions:</sectiontitle>
     <question>Q. Is alt.comedy.standup for telling jokes?</question>
-    
-    
     <answer>
       <![CDATA[
         A. Definitely not. Don't post them. Not only are jokes formulaic and
@@ -69,7 +66,6 @@
         not the pathetic idiot you are, go to rec.humor and talk to those morons.
       ]]>
     </answer>
-    
     <question>Q. Then what is it for?</question>
     <answer>
       <![CDATA[
