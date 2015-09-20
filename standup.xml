@@ -12,7 +12,7 @@
   <website>http://www.faqs.org/faqs/comedy-faq/standup/</website>
   
   <subtitle>Frequently Asked Questions (FAQ) for the alt.comedy.standup Newsgroup</subtitle>
-  <tableofcontents>
+  <section>
     1. Becoming a stand-up comedian.
     2. Commonly asked questions
     3. Comedy writing tips
@@ -25,8 +25,8 @@
   10. Comedy Software
   11. Miscellaneous
     
-  </tableofcontents>
-  <tips>
+  </section>
+  <section>
     1. Tips for getting started in stand-up comedy
       1. Keep a notebook & write down everything that strikes you as funny.
         (Only write down the stuff YOU think of!!!!)
@@ -57,7 +57,7 @@
         they can lie to you about how well you did.
     16. Learn how to take a joke. Most comedians can't.
   
-  </tips>
+  </section>
 
 2. Commonly asked questions:
 
