@@ -5,16 +5,13 @@
   File: standup.xml
 -->
 
-<?xml-stylesheet type="text/css" href="nutrition.css"?>
-
+<?xml-stylesheet type="text/css" href="faq.css"?>
 <faq>
-Stand-Up Comedy FAQ
-
-Steve Silberberg
-
-http://www.faqs.org/faqs/comedy-faq/standup/
-
-Frequently Asked Questions (FAQ) for the alt.comedy.standup Newsgroup
+  <title>Stand-Up Comedy FAQ</title>
+  <author>Steve Silberberg</author>
+  <source>http://www.faqs.org/faqs/comedy-faq/standup/</source>
+  
+  <subtitle>Frequently Asked Questions (FAQ) for the alt.comedy.standup Newsgroup</subtitle>
   ------------------------------------------------------------------------
 
   1. Becoming a stand-up comedian.
