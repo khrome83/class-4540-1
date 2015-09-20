@@ -10,7 +10,6 @@
   <title>Stand-Up Comedy FAQ</title>
   <author>Steve Silberberg</author>
   <website>http://www.faqs.org/faqs/comedy-faq/standup/</website>
-  
   <subtitle>Frequently Asked Questions (FAQ) for the alt.comedy.standup Newsgroup</subtitle>
   <section>
     1. Becoming a stand-up comedian.
@@ -22,9 +21,8 @@
     7. Agents and promotional agencies.
     8. Books about how to become a stand-up.
     9. Comedy Periodicals
-  10. Comedy Software
-  11. Miscellaneous
-    
+    10. Comedy Software
+    11. Miscellaneous
   </section>
   <section>
     1. Tips for getting started in stand-up comedy
@@ -60,8 +58,8 @@
   </section>
   <section>
     2. Commonly asked questions:
+    <question>Q. Is alt.comedy.standup for telling jokes?</question>
     
-    Q. Is alt.comedy.standup for telling jokes?
     
     A. Definitely not. Don't post them. Not only are jokes formulaic and
     offensive to stand-ups, if you post them, you will be derided mercilessly
@@ -69,7 +67,7 @@
     want to steal jokes you can tell at the office to make people think you're
     not the pathetic idiot you are, go to rec.humor and talk to those morons.
     
-    Q. Then what is it for?
+    <question>Q. Then what is it for?</question>
     
     A. It is mostly a place where stand-up comedians, agents, club owners,
     bookers, comedy writers, comedy fans, and an occasional doorman, sound guy
@@ -80,18 +78,18 @@
     people who want to find out about about shows, touring, comedy CD's and the
     like. Please refrain from posting binaries.
     
-    Q. And what else, Dave?
+    <question>Q. And what else, Dave?</question>
     
     A. To me, this newsgroup is like sitting at a big table in a restaurant
     after a show. Some comics are ripping each other, some just stay for a
     minute then come back later, some are trying to be funny, and some just
     want to eat &amp; want everyone else to shut up.
     
-    Q. But isn't stand-up comedy dead?
+    <question>Q. But isn't stand-up comedy dead?</question>
     
     A. Yes.
     
-    Q. What happened to all the comedy clubs from the 80s, BaldGuy?
+    <question>Q. What happened to all the comedy clubs from the 80s, BaldGuy?</question>
     
     A. At one point there were too many rooms and not enough headliners. So in
     order to put more money in their pockets some rooms decided to start
@@ -106,14 +104,14 @@
     cover charges they CERTAINLY couldn't afford the better comedians. Hence
     they dried up and died.
     
-    Q. What about comedy writers?
+    <question>Q. What about comedy writers?</question>
     
     A. There is currently no Usenet group specifically for comedy writing.
     Comedy writers are encouraged to use alt.comedy.standup for that purpose.
     Since there is a huge overlap in the two venues (stand-ups usually write
     their own material) comedy writing is often discussed in the newsgroup.
     
-    Q. This news group isn't funny.
+    <question>Q. This news group isn't funny.</question>
     
     A. Then shut your pie hole and post something funny.
     
@@ -134,7 +132,7 @@
     bring forth humor. Lurk for a few weeks. If it's still not funny to you, go
     to rec.humor and talk to those morons.
     
-    Q. Just what is a stand-up comedian, Bob?
+    <question>Q. Just what is a stand-up comedian, Bob?</question>
     
     A. "Comedian: a breed of human being who, without benefit of a steady job,
     adequete plane fare or a social life, traverses the globe attempting to
@@ -142,7 +140,7 @@
     of view while living from brown paper bags, overnight cases and on stale
     donuts and coffee."
     
-    Q. Why are you a stand-up, Billy?
+    <question>Q. Why are you a stand-up, Billy?</question>
     
     A. I know when I was a kid, I mean little kid, if I could make the grownups
     laugh, I felt like I was closer to them, or they were closer to me. I used
@@ -151,7 +149,7 @@
     real one, and I could get the teacher to laugh, I sometimes actually got a
     good mark ).
     
-    Q. What differentiates comedians from other people?
+    <question>Q. What differentiates comedians from other people?</question>
     
     A. Everyone experiences pain, of course. But a comedian has the ability to
     use their anger and intelligence to refocus and reconstruct their pain into
@@ -165,7 +163,7 @@
     pressure and heat transform coal into diamonds, it's that frustration,
     social pressure and the heat of anger that transforms us into comedians.
     
-    Q. How many Open Mikes do I have to do to become a star, actual3?
+    <question>Q. How many Open Mikes do I have to do to become a star, actual3?</question>
     
     A. It frequently amazes me how many people want - even expect - some kind
     of instant stardom. As someone who frequents open mics, I think it's
@@ -183,7 +181,7 @@
     that? You don't get good feedback that way; nor do you give yourself a
     chance to fail.
     
-    Q. What else can you tell me about these Open Mikes, actual3?
+    <question>Q. What else can you tell me about these Open Mikes, actual3?</question>
     
     A. I consider open mics to be a hobby like fencing or building model
     railroads or refinishing furniture. You put in time and effort, you achieve
@@ -200,7 +198,7 @@
     intellectual value out of those few moments as I can. If I didn't, I'd be
     in real trouble. Because that might be all I ultimately get out of it.
     
-    Q. I'm pretty damn funny. How do I go about getting a gig, Tim?
+    <question>Q. I'm pretty damn funny. How do I go about getting a gig, Tim?</question>
     
     A. Oh, sure, you may be pretty damn funny. But you'll need a hell of a lot
     more than that to get one of your so-called "gigs." Bitterness, for one
@@ -214,20 +212,20 @@
     smoking drunks trying desperately to get laid by the other fattest person
     in the room.
     
-    Q. I'm really freaking funny, Liam.
+    <question>Q. I'm really freaking funny, Liam.</question>
     
     A. Every time someone tells you how funny they are, you know right away
     that they're not, and the more they insist on the fact that they're funny,
     the more you know they're an untalented douchebag.
     
-    Q. What should my act be about, Mark?
+    <question>Q. What should my act be about, Mark?</question>
     
     A. There are jokes and subjects that the individual comedian wants to tell
     and explore and there are jokes and subjects the audience wants to explore.
     There is a large intersection and it is the comedian's job to find that
     intersection.
     
-    Q. Are friends and family supportive of my decision to do comedy, Steve?
+    <question>Q. Are friends and family supportive of my decision to do comedy, Steve?</question>
     
     A. Friends and family will think you're nuts if you continue to pursue
     stand-up for years, to the detriment of personal relationships, good health
@@ -236,7 +234,7 @@
     encourage you to follow your dream to your face, secretly believing that
     one day you'll take that Asst. Manager gig at Blockbuster Video.
     
-    Q. There are no Open Mikes in my area. How do I get stage time?
+    <question>Q. There are no Open Mikes in my area. How do I get stage time?</question>
     
     A. Well you could move, but consider starting your own Open Mike. Go to a
     local bar, or club, or even shopping mall and pitch it to them. Tell them
@@ -246,7 +244,7 @@
     others for your success, you'll often end up getting screwed politically,
     financially, or creatively, but seldom physically.
     
-    Q. How do I set up an Open Mike, Al?
+    <question>Q. How do I set up an Open Mike, Al?</question>
     
     A. Find a bar or coffeeshop that has a small performance area that's
     separate from the main bar area.
@@ -275,7 +273,7 @@
     stupid enema jokes while people are eating. Especially when it's the same
     bad enema jokes you've hard 50 times before.
     
-    Q. Is gender a problem in stand-up, Cathe?
+    <question>Q. Is gender a problem in stand-up, Cathe?</question>
     
     A. The problems I have found most in clubs is that there is a quota of how
     many women will get booked because "They're just not popular." The worst
@@ -283,7 +281,7 @@
     glazes over owners and managers eyes. No man has ever been passed over for
     a gig because there was "already another man on the bill".
     
-    Q. What's a hack?
+    <question>Q. What's a hack?</question>
     
     A. Stolen material. There's nothing lower or more reprehensible than
     someone who steals your material - - especially if they do it better than
