@@ -6,7 +6,7 @@
 -->
 
 <?xml-stylesheet type="text/css" href="faq.css"?>
-<faq>
+<FAQ>
   <title>Stand-Up Comedy FAQ</title>
   <author>Steve Silberberg</author>
   <website>http://www.faqs.org/faqs/comedy-faq/standup/</website>
@@ -296,4 +296,4 @@ There is an entire FAQ, called the "Hack FAQ"
 periodically to alt.comedy.standup and was originally written by Steven
 Rosenthal.
 
-</faq>
+</FAQ>
