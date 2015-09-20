@@ -53,6 +53,7 @@ website  {
     color: blue;
     margin-left: 10px; 
     margin-top: 5px; 
+    text-align: center;
 }
 
 question {
@@ -70,6 +71,14 @@ answer, tip {
     font-family: Times New Roman, Times, Serif;
     color: darkgreen; 
     margin-left: 35px; 
+}
+
+sectiontitle {
+    display: block;
+    font-weight: bold;
+    width: 565px;
+    font-size: 20px;
+    margin-bottom: 20px;
 }
 
 para {
